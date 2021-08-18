@@ -1,1 +1,1 @@
-# CodewarsJavSolutions
+# CodewarsJavaSolutions
