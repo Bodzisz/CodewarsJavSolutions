@@ -1,8 +1,9 @@
 import numberOfProperFractionsWithDenominatorD.ProperFractions;
+import permutations.Permutations;
 
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(ProperFractions.properFractions(5));
+        Permutations.singlePermutations("AABB").forEach(System.out::println);
     }
 }
